@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?text=Welcome Kjhyun-2)
+![header](https://capsule-render.vercel.app/api?text=Welcome!)
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
