@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Welcome!)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kjhyun_2&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangjihyunlo&show_icons=true&theme=radical)
 - 20230520 -21 SW봉사단교육 코드론
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangjihyunlo)](https://solved.ac/kangjihyunlo/)
