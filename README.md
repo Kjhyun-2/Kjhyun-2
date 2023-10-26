@@ -6,7 +6,7 @@
 -------
  
 <br>
-[![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kjhyun_2)](https://github.com/Kjhyun_2/github-readme-stats)
+
 
 
 ## 📞 Contact 📞
