@@ -4,7 +4,7 @@
 <div align="left">
 
 -------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kjhyun-2&show_icons=true&theme=스타일)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kjhyun-2&show_icons=true&theme=radical)
  
 <br>
 
