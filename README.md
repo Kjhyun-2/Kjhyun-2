@@ -8,9 +8,9 @@
 
 <div align="center">
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kjhyun-2)
-<br>
-</div>
 
+</div>
+<br>
 
 
 ## 📞 Contact 📞
