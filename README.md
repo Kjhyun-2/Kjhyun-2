@@ -7,7 +7,7 @@
  
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangjihyunlo@naver.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangjihyunlo&show_icons=true&theme=radical)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
