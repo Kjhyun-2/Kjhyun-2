@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Welcome!)
 
-
+![Kjhyun_2's github stats](https://github-readme-stats.vercel.app/api?username=Kjhyun_2&show_icons=true)
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
