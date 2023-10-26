@@ -6,10 +6,9 @@
 -------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kjhyun-2&show_icons=true&theme='')
 
-<div align="center">
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kjhyun-2)
 
-</div>
 <br>
 
 
