@@ -44,8 +44,11 @@ https://github.com/Kjhyun-2
 ***
 
 ### 💻 Project 
-- 2023년도 Unity 게임제작 (AppleCatch, Bamsongi, CatEscape, Dodge, Roll a Ball, Roulette, ShootingGame, SwipeCar, Uni-Run)
-- 2023년도 Unity 게임제작 프로젝트  (BeatStreat , Zombie 서바이벌)
+- Unity 게임제작 (AppleCatch, Bamsongi, CatEscape, Dodge, Roll a Ball, Roulette, ShootingGame, SwipeCar, Uni-Run)
+- Unity 게임제작 프로젝트  (BeatStreat , Zombie 서바이벌)
+- 서울 교통량 데이터 분석 프로젝트
+- 'MMC Lab' 의료 딥러닝 프로젝트
+- 'MMC Lab' Image Generative model 연구 프로젝트
 
 *** 
 ### 📌 Activities 
@@ -57,8 +60,7 @@ https://github.com/Kjhyun-2
 - 인공지능경진대회(데이콘)‘반도체 소자 이상 탐지 AI 경진대회’ 참여
 - 35사단 11해안감시기동대 작전소대 입대
 - 2023년도 한림대학교 소프트웨어 SW봉사단 활동
-- 2023년도 1학기 학기우등
-- 2023년도 2학기 학기우등
+- 2023년도 1학기, 2학기 학기우등
 - 2023년도 한림대학교 소프트웨어 SW봉사단 코딩 드론 교육 수료
 - 2023년도 한림대학교 소프트웨어 SW봉사단 자체역량강화 코딩 교육
 - 2023년도 초거대언어모델 및 메타버스 기반 AI구축 - 파이썬 기반 데이터 사이언스 (중급) 수료
