@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Jihyun+GitHub!👋)]([https://git.io/typing-svg](https://github.com/Kjhyun-2/Kjhyun-2))
 *** 
 ## 🙌  Information
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 * 이름
 **강지현 / Kang Ji Hyun**
 * 생년월일   
