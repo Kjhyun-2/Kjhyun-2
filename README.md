@@ -16,7 +16,7 @@ kangjihyunlo@naver.com
 https://github.com/Kjhyun-2
 ***
 ### 📞 Contact 📞
-<a href="https://www.instagram.com/kjhyun_2"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+<a href="https://www.instagram.com/kjhyun_2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
 </a> <a><img src="http://img.shields.io/badge/-wayergang@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 
 ***
