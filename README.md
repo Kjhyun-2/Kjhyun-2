@@ -21,9 +21,7 @@ https://github.com/Kjhyun-2
 </a>
 <a><img src="http://img.shields.io/badge/-wayergang@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 ***
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kjhyun-2)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kjhyun-2&show_icons=true&theme='')
 🏅 Algorithm Gold Level
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangjihyunlo)](https://solved.ac/kangjihyunlo/)
 
 # 🏆 Awards
 - 전국 ICT창의성대회 프로그래밍부문 은상🥈
