@@ -9,7 +9,7 @@
 * 소속 <br>
 **한림대학교 정보과학대학 소프트웨어학부 <br>**
   - 전공 : 빅데이터 <br>
-  부전공 : 콘텐츠IT <br>**
+  - 부전공 : 콘텐츠IT <br>**
 * Email   
 kangjihyunlo@naver.com
 * GitHub   
