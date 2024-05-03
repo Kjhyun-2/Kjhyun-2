@@ -15,7 +15,7 @@
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:wayergang@gmail.com">
-        <img src="http://img.shields.io/badge/-kangjihyunlo@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+        <img src="http://img.shields.io/badge/-wayergang@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.instagram.com/kjhyun_2">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
