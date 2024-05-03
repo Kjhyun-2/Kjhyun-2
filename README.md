@@ -13,8 +13,7 @@
 * Email   
 kangjihyunlo@naver.com
 * GitHub
-
-https://github.com/Kjhyun-2
+  https://github.com/Kjhyun-2
 ***
 ### 📞 Contact 📞
 <a href="https://www.instagram.com/kjhyun_2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
