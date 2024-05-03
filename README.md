@@ -12,7 +12,7 @@
 복수전공: 콘텐츠 IT**
 * Email   
 kangjihyunlo@naver.com
-* GitHub 
+* GitHub \\
 https://github.com/Kjhyun-2
 ***
 ### 📞 Contact 📞
