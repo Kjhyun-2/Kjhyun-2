@@ -44,8 +44,9 @@ https://github.com/Kjhyun-2
 ***
 
 ### 💻 Project 
-- Unity 게임제작 (AppleCatch, Bamsongi, CatEscape, Dodge, Roll a Ball, Roulette, ShootingGame, SwipeCar, Uni-Run)
-- Unity 게임제작 프로젝트  (BeatStreat , Zombie 서바이벌)
+- Unity 게임제작 (AppleCatch, Bamsongi, CatEscape, Dodge)
+- Unity 게임제작 (Roll a Ball, Roulette, ShootingGame, SwipeCar, Uni-Run)
+- Unity 게임제작 프로젝트 (BeatStreat , Zombie 서바이벌)
 - 서울 교통량 데이터 분석 프로젝트
 - 'MMC Lab' 의료 딥러닝 프로젝트
 - 'MMC Lab' Image Generative model 연구 프로젝트
@@ -77,8 +78,8 @@ https://github.com/Kjhyun-2
 ***
 
 ### 📖 Study
-|학기|과목명|학기|과목명|학기|과목명|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|학기|과목명|학기|과목명|
+|:---:|:---:|:---:|:---:|
 |2020-1|컴퓨팅사고와문제해결|2023-2|알고리즘|
 |2020-1|이산구조론|2023-2|인공지능수학|
 |2020-1|데이터의 힘|2023-2|C++프로그래밍|
