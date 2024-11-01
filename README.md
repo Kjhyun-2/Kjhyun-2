@@ -19,6 +19,9 @@ kangjihyunlo@naver.com
 * GitHub   
 https://github.com/Kjhyun-2
 ***
+```
+안녕하세요, 빅데이터 전공 20학번 강지현입니다. AI 연구와 컴퓨터 비전에 관심이 많아 데이터 분석과 머신러닝, 영상 처리 기술을 탐구하며 성장하고 있습니다. 유의미한 딥러닝 모델을 연구하는 데 관심과 열정을 가지고 있으며 쌓은 경험을 바탕으로 현실적인 문제 해결에 기여할 수 있는 연구원으로 성장하고자 합니다. 다양한 분야와 협업하며 시야를 넓히고, 꾸준히 배우고 연구해 AI와 데이터 분야에서 실질적인 성과를 내고자 합니다
+```
 ### 📞 Contact 📞
 <a href="https://www.instagram.com/kjhyun_2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a> <a><img src="http://img.shields.io/badge/-wayergang@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 
