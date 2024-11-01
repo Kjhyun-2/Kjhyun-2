@@ -3,9 +3,7 @@
 *** 
 ## 🙌  Information
 <div style="display: flex; flex-direction: row-reverse; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/e1b2cd53-5456-4fec-b049-85178c3fdd31" width="120px" style="border-radius: 10px; margin-left: 20px;">
-> 안녕하세요, 빅데이터 전공 20학번 강지현입니다. AI 연구와 컴퓨터 비전에 관심이 많아 데이터 분석과 머신러닝, 영상 처리 기술을 탐구하며 성장하고 있습니다. 실제 문제 해결에 기여할 수 있는 데이터와 모델 연구에 열정을 가지고 있으며 쌓은 경험을 바탕으로 실질적인 가치를 창출하는 연구원으로 성장하고자 합니다. 
-> 다양한 직군과의 협업을 >통해 폭넓은 시각을 유지하며, 지속적인 학습과 실험을 통해 AI와 데이터 분야에서 의미 있는 성과를 이루어 나가는 것이 목표입니다.
+<img src="https://github.com/user-attachments/assets/e1b2cd53-5456-4fec-b049-85178c3fdd31" width="120px" style="border-radius: 10px; margin-left: 20px;">
 
 
 * 이름
