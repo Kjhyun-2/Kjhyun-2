@@ -2,7 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Jihyun+GitHub!👋)]([https://git.io/typing-svg](https://github.com/Kjhyun-2/Kjhyun-2))
 *** 
 ## 🙌  Information
-![image](https://github.com/user-attachments/assets/7ff0e0a1-56a0-4032-a15d-8748b7502af8)
+![image](https://github.com/user-attachments/assets/e1b2cd53-5456-4fec-b049-85178c3fdd31)
+
 
 
 * 이름
