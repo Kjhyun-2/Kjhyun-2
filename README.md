@@ -4,7 +4,6 @@
 ## 🙌  Information
 <img src="https://github.com/user-attachments/assets/3e2c8999-185b-457b-b185-f937801c6642" width="120px" style="border-radius:50%; float:right; margin-left:15px;">
 
-
 * 이름
 **강지현 / Kang Ji Hyun**
 * 생년월일   
