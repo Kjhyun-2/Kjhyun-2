@@ -31,11 +31,11 @@ https://github.com/Kjhyun-2
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangjihyunlo)](https://solved.ac/kangjihyunlo/)
 
 # 🏆 Awards
-- Sejong UNIVERSITY 해커톤대회 대상🥇
+- Sejong University 해커톤대회 대상🥇
 - 전국 ICT창의성대회 프로그래밍부문 은상🥈
-- Sangji UNIVERSITY 프로그래밍 대회 동상🥉
-- Hallym UNIVERSITY AI경진대회(인쇄 얼룩 제거) 동상🥉 
-- Hallym UNIVERSITY GitHub 콘테스트 동상🥉
+- Sangji University 프로그래밍 대회 동상🥉
+- Hallym University AI경진대회(인쇄 얼룩 제거) 동상🥉 
+- Hallym University GitHub 콘테스트 동상🥉
 ***  
 
 ### 📚 stacks
