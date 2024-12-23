@@ -54,6 +54,7 @@ https://github.com/Kjhyun-2
 - Unity 게임제작 (Roll a Ball, Roulette, ShootingGame, SwipeCar, Uni-Run)
 - Unity 게임제작 프로젝트 (BeatStreat , Zombie 서바이벌)
 - 서울 교통량 데이터 분석 프로젝트
+- AI기반 개인 맞춤형 인테리어 디자인 플랫폼 제작
 - 'MMC Lab' 의료 딥러닝 프로젝트
 - 'MMC Lab' Image Generative model 연구 프로젝트
 
@@ -77,6 +78,7 @@ https://github.com/Kjhyun-2
 - 2023년도 SW빌리지 정주형 교육 (프로그래밍 Python) 수료
 - 2023년도 SW빌리지 정주형 교육 (웹페이지 디자인 HTML/CSS) 수료
 - 2023년도 AI 연구실 'MMC' 연구원 등록
+- 2024년도 1학기, 2학기 학기우등
 - 2024년도 Fine Tuning 기반의 도메인 Retrieval Augumentation 교육 수료
 - 2024년도 인공지능을 이용한 의료영상처리 특강 수료
 - 2024년도 나만의 소형언어모델(sLM) 교육 수료
@@ -120,5 +122,6 @@ https://github.com/Kjhyun-2
 - 2024년도 교내 소프트웨어융합대학 학술동아리 C.愛.랑 인공지능(텐서) 팀원
 - 2024년도 교내 축구 동아리 '일레븐' 활동
 - 2024년도 제 3대 정보과학대학 학생회 'Ready' 대외협력국 국장
+- 2025년도 제 4대 정보과학대학 학생회 'ZIP' 사무국 국장
 
 ***
