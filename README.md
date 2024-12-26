@@ -55,7 +55,7 @@ https://github.com/Kjhyun-2
 - Unity 게임제작 프로젝트 (BeatStreat , Zombie 서바이벌)
 - 서울 교통량 데이터 분석 프로젝트
 - AI기반 개인 맞춤형 인테리어 디자인 플랫폼 제작
-- 'MMC Lab' 의료 딥러닝 프로젝트
+- 'MMC Lab' 의료 딥러닝 프로젝트(논문결과재현)
 - 'MMC Lab' Image Generative model 연구 프로젝트
 
 *** 
@@ -123,5 +123,4 @@ https://github.com/Kjhyun-2
 - 2024년도 교내 축구 동아리 '일레븐' 활동
 - 2024년도 제 3대 정보과학대학 학생회 'Ready' 대외협력국 국장
 - 2025년도 제 4대 정보과학대학 학생회 'ZIP' 사무국 국장
-
 ***
