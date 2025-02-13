@@ -54,7 +54,7 @@ https://github.com/Kjhyun-2
 - Unity 게임제작 (Roll a Ball, Roulette, ShootingGame, SwipeCar, Uni-Run)
 - Unity 게임제작 프로젝트 (BeatStreat , Zombie 서바이벌)
 - 서울 교통량 데이터 분석 프로젝트
-- AI기반 개인 맞춤형 인테리어 디자인 플랫폼 제작
+- AI기반 개인 맞춤형 인테리어 디자인 플랫폼 제작 (RoomGenius)
 - 'MMC Lab' 의료 딥러닝 프로젝트(논문결과재현)
 - 'MMC Lab' Image Generative model 연구 프로젝트
 
