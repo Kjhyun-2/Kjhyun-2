@@ -61,6 +61,10 @@ https://github.com/Kjhyun-2
 - Unity 게임제작 프로젝트 (BeatStreat , Zombie 서바이벌)
 - 서울 교통량 데이터 분석 프로젝트
 - AI기반 개인 맞춤형 인테리어 디자인 플랫폼 제작 (RoomGenius)
+- LLM을 활용한
+- 한글 필기체 인식을 위한 CNN 모델 설계
+- OpenAI chatGPT 프롬프트 설계 가이드라인 도출 연구
+- AutoEncoder를 활용한 X-ray 뼈 그림자 제거
 - 'MMC Lab' 의료 딥러닝 프로젝트(논문결과재현)
 - 'MMC Lab' Image Generative model 연구 프로젝트
 
