@@ -63,6 +63,7 @@ https://github.com/Kjhyun-2
 - AI기반 개인 맞춤형 인테리어 디자인 플랫폼 제작 (RoomGenius)
 - 'MMC Lab' 의료 딥러닝 프로젝트(논문결과재현)
 - 'MMC Lab' Image Generative model 연구 프로젝트
+- LLM 및 생체 신호 분석 기반 감정 인식 AI 상담 프로그램 제작
 - LLM을 활용한 Pet-Conversation-Game 제작
 - 한글 필기체 인식을 위한 CNN 모델 설계
 - OpenAI chatGPT 프롬프트 설계 가이드라인 도출 연구
