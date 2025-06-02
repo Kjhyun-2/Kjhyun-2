@@ -32,7 +32,7 @@ https://github.com/Kjhyun-2
 
 # 🏆 Awards
 - Sejong University 해커톤대회 대상🥇
-- Hallym University 디지털경진대회(LLM:인간 텍스트 판별) 금상🥇 
+- Hallym University AI디지털경진대회(LLM:인간 텍스트 판별) 금상🥇 
 - 전국 ICT창의성대회 프로그래밍부문 은상🥈
 - Hallym University 소프트웨어캡스톤디자인 경진대회 은상🥈
 - Sangji University 프로그래밍 대회 동상🥉
