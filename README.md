@@ -74,6 +74,7 @@ https://github.com/Kjhyun-2
 - OpenAI chatGPT 프롬프트 설계 가이드라인 도출 연구
 - AutoEncoder를 활용한 X-ray 뼈 그림자 제거
 - Adversarial Attack이 적용된 딥페이크 이미지 탐지
+- LLM 기반 실시간 생성형 캐릭터 대화 시스템 (한국디지털콘텐츠학회)
 
 
 *** 
@@ -105,6 +106,7 @@ https://github.com/Kjhyun-2
 - 2025년도 정보 은닉 기술을 통한 인공지능 보안 연구 동향 특강 수료
 - 2025년도 딥러닝 기반 의료 영상처리 연구 개요 특강 수료
 - 2025년도 하계 해외 SW연수(Utah State University)
+- 2025년도 1학기 학기우등
 ***
 
 ### 📖 Study
