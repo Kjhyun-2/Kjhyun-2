@@ -36,6 +36,7 @@ https://github.com/Kjhyun-2
 - 전국 ICT창의성대회 프로그래밍부문 은상🥈
 - Hallym University 소프트웨어캡스톤디자인 경진대회 은상🥈
 - Hallym University 소프트웨어학부 코딩테스트(상급) 은상🥈
+- Hallym University 정보과학대학 학술제(완성작) 최우수상🥈
 - Sangji University 프로그래밍 대회 동상🥉
 - Hallym University AI경진대회(인쇄 얼룩 제거) 동상🥉 
 - Hallym University GitHub 콘테스트 동상🥉
