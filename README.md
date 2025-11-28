@@ -41,6 +41,7 @@ https://github.com/Kjhyun-2
 - Hallym University AI경진대회(인쇄 얼룩 제거) 동상🥉 
 - Hallym University GitHub 콘테스트 동상🥉
 - Hallym University AI편곡대회 동상🥉
+- 한국디지털콘텐츠학회 추계종합학술대회 동상🥉
 ***  
 
 ### 📚 stacks
